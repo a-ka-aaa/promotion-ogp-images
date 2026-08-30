@@ -41,5 +41,7 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | [`sm5-program-ogp.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/sm5-program-ogp.jpg) | 5日間プログラムのタイトル画像（文字の追加なし） | OGP用・オープンチャットへの投稿用 | 1200×630 | 本番 |
 | [`sm5-program-cta.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/sm5-program-cta.jpg) | 5日間プログラムのオプチャ投稿用（CTA帯つき・**採用**） | 9月回オープンチャットへの投稿 | 1731×1077 | 本番 |
 | [`sm5-program-cta-2line.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/sm5-program-cta-2line.jpg) | 同上の**別案**（補足1行入り） | — | 1731×1119 | 未採用（保管） |
+| [`2days-archive-day1.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day1.jpg) | **Day1アーカイブの配信で使う画像**（「48時間限定公開」「アーカイブはこちらから ↓↓ ●●DAY1アーカイブ●● ↓↓」） | 2DAYSライブセミナー Day1アーカイブの案内 | 1536×1024 | 本番 |
+| [`2days-archive-day2.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day2.jpg) | **Day2アーカイブの配信で使う画像**（同上のDAY2版） | 2DAYSライブセミナー Day2アーカイブの案内 | 1536×1024 | 本番 |
 
 リンクをそのまま貼ると画像として表示されます。管理シートに貼る場合も上のURLを使ってください。
