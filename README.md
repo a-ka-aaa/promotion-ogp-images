@@ -31,7 +31,8 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | 用途 | `ogp` | リンクプレビュー用（OGP。推奨は1200×630） |
 | 用途 | `cta` | 投稿用（次の動作を促す帯つき） |
 | 用途 | `archive` | アーカイブ配信で使う画像 |
-| 補足 | `day1` `day2` `2line` など | 同じ用途の中での区別 |
+| 用途 | `reminder` | 開催前のリマインド投稿用 |
+| 補足 | `day1` `day2` `2line` `today` `tomorrow` など | 同じ用途の中での区別 |
 
 ## 置いてある画像
 
@@ -43,5 +44,8 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | [`sm5-program-cta-2line.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/sm5-program-cta-2line.jpg) | 同上の**別案**（補足1行入り） | — | 1731×1119 | 未採用（保管） |
 | [`2days-archive-day1.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day1.jpg) | **Day1アーカイブの配信で使う画像**（「48時間限定公開」「アーカイブはこちらから ↓↓ ●●DAY1アーカイブ●● ↓↓」） | 参加者オープンチャットへ投稿（①投稿 → ②画像 → ③ノート共有 の順） | 1536×1024 | 本番 |
 | [`2days-archive-day2.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day2.jpg) | **Day2アーカイブの配信で使う画像**（同上のDAY2版） | 参加者オープンチャットへ投稿（①投稿 → ②画像 → ③ノート共有 の順） | 1536×1024 | 本番 |
+| [`2days-reminder-day1-tomorrow.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day1-tomorrow.jpg) | **DAY1前日**のリマインド投稿用（「いよいよ明日開催！」「魔法の45分セールステンプレート2DAYS」「DAY1 9月9日(水)20:00〜」「参加無料」「リアルタイム参加特典あり！」） | オープンチャットへ投稿（開催前日） | 1254×1254 | 本番 |
+| [`2days-reminder-video-ep5.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-video-ep5.jpg) | **DAY1前日**の動画プログラム視聴促進用（「いよいよ明日はDAY1！」「動画プログラム5話目まで特別公開!!」「今日のうちに1話目からチェック！」） | オープンチャットへ投稿（開催前日） | 1254×1254 | 本番 |
+| [`2days-reminder-day1-today.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day1-today.jpg) | **DAY1当日**のリマインド投稿用（「たかみず先生からの緊急メッセージ」「本日20時 DAY1セミナースタート」・音声メッセージに添える想定） | オープンチャットへ投稿（開催当日） | 1200×1200 | 本番 |
 
 リンクをそのまま貼ると画像として表示されます。管理シートに貼る場合も上のURLを使ってください。
