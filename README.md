@@ -33,7 +33,7 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | 用途 | `archive` | アーカイブ配信で使う画像 |
 | 用途 | `reminder` | 開催前のリマインド投稿用 |
 | 用途 | `bonus` | 特典の紹介画像 |
-| 補足 | `day1` `day2` `2line` `today` `tomorrow` など | 同じ用途の中での区別 |
+| 補足 | `day1` `day2` `2line` `today` `tomorrow` `30min` `10min` など | 同じ用途の中での区別 |
 
 ## 置いてある画像
 
@@ -48,6 +48,8 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | [`2days-reminder-day1-tomorrow.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day1-tomorrow.jpg) | **DAY1前日**のリマインド投稿用（「いよいよ明日開催！」「魔法の45分セールステンプレート2DAYS」「DAY1 9月9日(水)20:00〜」「参加無料」「リアルタイム参加特典あり！」） | オープンチャットへ投稿（開催前日） | 1254×1254 | 本番 |
 | [`2days-reminder-video-ep5.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-video-ep5.jpg) | **DAY1前日**の動画プログラム視聴促進用（「いよいよ明日はDAY1！」「動画プログラム5話目まで特別公開!!」「今日のうちに1話目からチェック！」） | オープンチャットへ投稿（開催前日） | 1254×1254 | 本番 |
 | [`2days-reminder-day1-today.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day1-today.jpg) | **DAY1当日**の音声メッセージ投稿用（「たかみず先生からの緊急メッセージ」「本日20時 DAY1セミナースタート」） | オープンチャットへ投稿（開催当日） | 1200×1200 | 本番 |
+| [`2days-reminder-30min.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-30min.jpg) | **開始30分前**のカウントダウン投稿用（「20:00スタート」「あと30分！」「魔法の45分セールステンプレート」「無料ZOOM開催」「2daysセミナー」・日付とDAY表記がないため**DAY1・DAY2の両方で使えます**） | オープンチャットへ投稿（開催当日・開始直前） | 1254×1254 | 本番 |
+| [`2days-reminder-10min.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-10min.jpg) | **開始10分前**のカウントダウン投稿用（同上の「あと10分！」版・**DAY1・DAY2の両方で使えます**） | オープンチャットへ投稿（開催当日・開始直前） | 1254×1254 | 本番 |
 | [`2days-bonus-all.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-bonus-all.jpg) | **特典4点の紹介画像（4枚を1枚にまとめたもの）**（特典1「お客様の本音」＝オープンチャット登録特典／特典2「ゴールからの逆算思考」・特典3「月収7桁を超える方法とは」・特典4「一気に整える習慣とは？」＝セミナー参加特典） | オープンチャットへ投稿 | 1197×711 | 本番 |
 
 リンクをそのまま貼ると画像として表示されます。管理シートに貼る場合も上のURLを使ってください。
