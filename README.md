@@ -31,7 +31,9 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | 用途 | `ogp` | リンクプレビュー用（OGP。推奨は1200×630） |
 | 用途 | `cta` | 投稿用（次の動作を促す帯つき） |
 | 用途 | `archive` | アーカイブ配信で使う画像 |
-| 補足 | `day1` `day2` `2line` など | 同じ用途の中での区別 |
+| 用途 | `reminder` | 開催前のリマインド（音声メッセージ配布ページのOGP・ページ内画像） |
+| 用途 | `voice` | 開催後の音声メッセージ（リマインドではないもの） |
+| 補足 | `day1` `day2` `2line` `today` `tomorrow` など | 同じ用途の中での区別 |
 
 ## 置いてある画像
 
@@ -43,5 +45,9 @@ GitHubの `raw` URL はそのまま画像として配信されるため、
 | [`sm5-program-cta-2line.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/sm5-program-cta-2line.jpg) | 同上の**別案**（補足1行入り） | — | 1731×1119 | 未採用（保管） |
 | [`2days-archive-day1.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day1.jpg) | **Day1アーカイブの配信で使う画像**（「48時間限定公開」「アーカイブはこちらから ↓↓ ●●DAY1アーカイブ●● ↓↓」） | 参加者オープンチャットへ投稿（①投稿 → ②画像 → ③ノート共有 の順） | 1536×1024 | 本番 |
 | [`2days-archive-day2.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-archive-day2.jpg) | **Day2アーカイブの配信で使う画像**（同上のDAY2版） | 参加者オープンチャットへ投稿（①投稿 → ②画像 → ③ノート共有 の順） | 1536×1024 | 本番 |
+| [`2days-reminder-day1-today.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day1-today.jpg) | **DAY1当日の音声メッセージ用**（「たかみず先生からの緊急メッセージ／本日20時／DAY1セミナースタート」） | 音声メッセージ配布ページ `SHcQfxr6YEs6` の `meta_og_image` とページ内のタイトル画像 | 1200×1200 | 本番 |
+| [`2days-reminder-day2-tomorrow.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day2-tomorrow.jpg) | **DAY2前日の音声メッセージ用（現在使用中）**（「たかみず先生からの緊急メッセージ／**明日20時**／DAY2セミナースタート」） | 音声メッセージ配布ページ `f8fqwDj1gvSW` の `meta_og_image` とページ内のタイトル画像 | 1254×1254 | 本番 |
+| [`2days-reminder-day2-today.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-reminder-day2-today.jpg) | 同上の**「本日20時」版**。DAY2前日に配布することになったため差し替えた | — | 1254×1254 | 未使用（保管） |
+| [`2days-voice-final.jpg`](https://raw.githubusercontent.com/a-ka-aaa/promotion-ogp-images/main/2days-voice-final.jpg) | **2DAYS終了後の音声メッセージ用**（「2日間お疲れ様でした／あなたに伝えたいこと」） | 音声メッセージ配布ページ `0jNuO06mUkXe` の `meta_og_image` とページ内のタイトル画像 | 1254×1254 | 本番 |
 
 リンクをそのまま貼ると画像として表示されます。管理シートに貼る場合も上のURLを使ってください。
